@@ -1,0 +1,42 @@
+# Need & Know
+
+## Project
+Need & Know is a sustainability knowledge-to-action platform that helps organisations describe real challenges and discover relevant research, expertise, projects, and practitioners.
+
+## Problem it solves
+The knowledge and expertise already exist, but they are difficult to find when an NGO, municipality, community group, or project team needs practical help. Need & Know connects the need with the right knowledge and people, with a clear explanation of why the connection matters.
+
+## How it works
+- People describe a real challenge in plain language.
+- The platform structures the need: theme, location, type of support needed, and time frame.
+- AI helps suggest relevant research, expertise, and projects.
+- A human broker reviews suggestions before any introduction is made.
+- The platform measures whether the connection led to a useful conversation.
+
+## Relationship to SCC
+The Sustainability Collaboration Center (SCC) is the independent nonprofit umbrella behind Need & Know. SCC is being set up as a Swiss nonprofit association and exists to help sustainability knowledge turn into action faster.
+
+## Focus areas
+- climate adaptation
+- sustainability knowledge mobilisation
+- research-to-practice collaboration
+- NGO and practitioner support
+- human-reviewed introductions
+
+## Geographic scope
+Need & Know is beginning in Suisse romande, with a pilot focus on climate adaptation in Switzerland.
+
+## Audience
+- NGOs and practitioners
+- researchers and universities
+- funders and foundations
+- sustainability-focused organisations
+
+## Trust and governance
+Need & Know is designed to be independent, transparent, and human-led. Suggestions are never sent automatically, and the platform is not intended to certify organisations or rank people without review.
+
+## Links
+- https://www.needandknow.com/
+- https://www.needandknow.com/#platform
+- https://www.needandknow.com/#scc
+- https://www.needandknow.com/#get-involved
