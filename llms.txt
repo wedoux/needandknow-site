@@ -10,7 +10,7 @@ The knowledge and expertise already exist, but they are difficult to find when a
 - People describe a real challenge in plain language.
 - The platform structures the need: theme, location, type of support needed, and time frame.
 - AI helps suggest relevant research, expertise, and projects.
-- A human broker reviews suggestions before any introduction is made.
+- Contact is direct by default. A human broker helps shape each need and makes the first introduction to researchers who have not claimed their record.
 - The platform measures whether the connection led to a useful conversation.
 
 ## Relationship to SCC
@@ -21,7 +21,7 @@ The Sustainability Collaboration Center (SCC) is the independent nonprofit umbre
 - sustainability knowledge mobilisation
 - research-to-practice collaboration
 - NGO and practitioner support
-- human-reviewed introductions
+- human brokerage where it matters
 
 ## Geographic scope
 Need & Know is beginning in Suisse romande, with a pilot focus on climate adaptation in Switzerland.
@@ -33,7 +33,7 @@ Need & Know is beginning in Suisse romande, with a pilot focus on climate adapta
 - sustainability-focused organisations
 
 ## Trust and governance
-Need & Know is designed to be independent, transparent, and human-led. Suggestions are never sent automatically, and the platform is not intended to certify organisations or rank people without review.
+Need & Know is designed to be independent, transparent, and human-led. Nothing is sent automatically, researchers who never signed up are only contacted through a person, and the platform does not certify organisations or rank people.
 
 ## Links
 - https://www.needandknow.com/
