@@ -1,6 +1,6 @@
 # Need & Know — complete website
 
-Includes the globe hero, all brand assets, founder photos, platform preview, UN SDG logo, and the four SVG illustrations in section 07.
+Includes the globe hero, all brand assets, platform preview, UN SDG logo, and the four SVG illustrations in section 07.
 
 ## Run locally
 
